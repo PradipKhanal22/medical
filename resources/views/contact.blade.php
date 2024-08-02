@@ -5,7 +5,7 @@
 <header class="relative h-screen bg-cover bg-center">
     <img src="https://thumbs.dreamstime.com/b/contact-us-treatment-prevention-disease-syringe-vaccine-medical-concept-selective-focus-89250989.jpg" alt="Header Image" class="absolute inset-0 w-full h-full object-cover z-0">
     <div class="absolute inset-0 bg-black opacity-50"></div>
-    <div class="relative container mx-auto h-full flex flex-col justify-center items-center text-center text-white z-10">
+    <div class="relative container mx-auto h-full flex flex-col justify-center items-center text-center text-white">
         <h1 class="text-4xl md:text-6xl font-bold">Get In Touch</h1>
         <p class="text-md md:text-xl mt-4">We'd love to hear from you</p>
         <a href="#" class="mt-6 px-5 py-3 bg-yellow-500 text-black font-bold rounded-full hover:bg-yellow-600">CONTACT US</a>

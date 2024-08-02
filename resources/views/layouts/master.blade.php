@@ -24,7 +24,7 @@
             @endauth
         </div>
     </div>
-    <nav class="bg-gray-500 top-0 sticky z-10 text-white py-6">
+    <nav class="bg-gray-500 top-0 sticky z-10 text-white py-6 z-10">
         <div class="container mx-auto flex justify-between items-center px-6">
             <div class="flex items-center">
              
