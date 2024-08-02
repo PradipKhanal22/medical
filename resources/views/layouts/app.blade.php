@@ -37,7 +37,7 @@
                 <a href="" class="p-3 text-gray-700 hover:bg-gray-300 flex items-center">
                     Users
                 </a>
-                <a href="{{route('logout')}}" class="p-3 text-gray-700 hover:bg-gray-300 flex items-center">
+                <a href="{{route('home')}}" class="p-3 text-gray-700 hover:bg-gray-300 flex items-center">
                     Logout
                 </a>
             </div>

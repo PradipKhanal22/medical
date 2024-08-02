@@ -14,6 +14,6 @@
 <!-- Main Content -->
 <div class="mt-20">
     <h2 class="text-3xl font-bold mb-6 text-center">About Our System</h2>
-    <p class="text-lg text-center">We are dedicated to providing exceptional travel experiences for all our customers.</p>
+    <p class="text-lg text-center"></p>
 </div>
 @endsection

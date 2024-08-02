@@ -7,7 +7,7 @@ url('https://media.istockphoto.com/id/675458912/photo/doctors-group-surgeon-and-
     <div class="absolute inset-0 bg-black opacity-50"></div>
     <div class="relative container mx-auto h-full flex flex-col justify-center items-center text-center text-white">
         <h1 class="text-4xl md:text-6xl font-bold">Medical management System</h1>
-        <p class="text-md md:text-xl mt-4">The good physician treats the disease; the great physician treats the patient who has the disease.</p>
+        <p class="text-md md:text-xl mt-4">The good physician treats the disease, the great physician treats the patient who has the disease.</p>
     </div>
 </header>
 

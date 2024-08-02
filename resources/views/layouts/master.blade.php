@@ -15,7 +15,7 @@
         <div>
         @auth
             <a href="" class="text-sans font-bold">HI, {{auth()->user()->name}}</a>
-            <form action="{{route('logout')}}" method="post" class="inline">
+            <form action="{{route('logout')}}" method="POST" class="inline">
                 @csrf
                 <button type="submit" class="p-2 text-sans font-bold">Logout</button>
             </form>
@@ -28,7 +28,7 @@
         <div class="container mx-auto flex justify-between items-center px-6">
             <div class="flex items-center">
              
-                <a href="{{ route('home') }}" class="text-4xl font-bold">Medical Management </a>
+                <a href="{{ route('home') }}" class="text-4xl font-bold hover:text-yellow-500">Medical Management </a>
             </div>
             <div class="flex space-x-8 text-xl">
                 <a href="{{ route('home') }}" class="hover:text-yellow-500">Home</a>
