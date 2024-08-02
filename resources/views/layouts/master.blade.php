@@ -20,11 +20,11 @@
                 <button type="submit" class="p-2 text-sans font-bold">Logout</button>
             </form>
             @else
-            <a href="/login" class="p-2 hover:text-blue-500">Login</a>
+            <a href="/login" class="font-bold p-2 hover:text-black">Login</a>
             @endauth
         </div>
     </div>
-    <nav class="bg-gray-500 top-0 sticky z-10 text-white py-6 z-10">
+    <nav class="bg-black top-0 sticky z-10 text-white py-6 z-10">
         <div class="container mx-auto flex justify-between items-center px-6">
             <div class="flex items-center">
              
